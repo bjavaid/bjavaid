@@ -1,3 +1,13 @@
+# Babar Javaid 👨‍💻
+![](https://komarev.com/ghpvc/?username=bjavaid&color=36b812)
+![](https://img.shields.io/github/followers/bjavaid?style=social)
+![](https://img.shields.io/github/stars/bjavaid?style=social)
+<!---
+[![Donate](https://img.shields.io/badge/Support-%24-blue)](https://www.paypal.me/sakshamtaneja)
+--->
+## Hi there 👋,
+
+### I'm Babar Javaid 👋 and ❤️ AI, design solutions, and scaleable software architecture. I am a community guy who loves tech and sees myself as a product enthusiast.
 - 👋 Hi, I’m @bjavaid
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -8,10 +18,6 @@
 bjavaid/bjavaid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-![](https://komarev.com/ghpvc/?username=dayyass&color=36b812)<br>
-![](https://img.shields.io/github/followers/dayyass?style=social)<br>
-![](https://img.shields.io/github/stars/dayyass?style=social)<br>
 
 ### Hi, my name is Babar Javaid 👋 and I ❤️ AI, Designing Solutions and Software Architecture that are scaleable
 
